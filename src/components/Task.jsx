@@ -43,6 +43,8 @@ export default function Task({
           <span className={`icon-star`} />
         </button>
       )}
+
+      <div className="">테스트 입니다.</div>
     </div>
   );
 
